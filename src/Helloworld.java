@@ -1,6 +1,6 @@
 public class Helloworld {
     public static void main(String[]args){
-        add();
+   /*     add();
         b();
         c();
         d();
@@ -22,7 +22,7 @@ public class Helloworld {
 
     public static void d() {
         int a = 5;
-        System.out.println(a / a);
+        System.out.println(a / a);*/
     }
 }
     /*public static void main(String[]args){
@@ -58,7 +58,7 @@ public class Helloworld {
 //내용 정리
 //자바 실행할려면 jdk가 필요하다!!
 //자바는 객채지향 언어 중 하나다
-//기본적인 출력을 할때는 print,println,printf가 주로 사용 '따로 조사 하자'
+//기본적인 출력을 할때는 print,println,printf(%같은거 활용할때)가 주로 사용 '따로 조사 하자'
 //자바의 변수 같은 경우는 형을 지정해줘야함 예로 string a="answk"
 //문자열 변환는 밑에 쓴거 참고 하셈;; 귀찮음 치기 '따로 조사 하자'
 //연산자 +더하기 -빼기 %몫 /나머지
@@ -90,6 +90,7 @@ public class Helloworld {
 // 형 변환
 //Integer. 하고 parse__이나 to__하면 예로 인트에서 스트링으로 바뀌는 식으로 됨.
 //앞에 바꿀 예로 String c= 요런식으로 하고 Integer. 응용하여 전개
+// double은 Double.valueOf();으로 활용
 
 //메소드 중요!![이거 할려구 자바한다고 생각]
 // 첫 타이틀을 클래스라 칭하고, 그 {}안에 포함되있는 것을 메소드라고 칭하면 됨 ㅎ
