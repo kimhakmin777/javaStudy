@@ -11,6 +11,10 @@ public class Study {
 
     }
 }
+
+//
+
+
 //retune 리턴
 //paramiter 파라미터
 
@@ -40,9 +44,9 @@ public class Study {
 
 // 반복문 문제 while
 //System.out.println("카운트 다운을 시작함당");
-//      int num=5;
-//     while (num>=1){
-//         System.out.println(num);
+//      int num=5=1){
+//         System.;
+////     while (num>out.println(num);
 //         num--;
 //
 //     }
@@ -60,7 +64,7 @@ public class Study {
 //        System.out.println(sum);
 
 //논리 연산자
-//논리 연산자 and(&&모두) or(||둘 중 하나) not(!=전부 아님)
+//논리 연산자 and(&&모두) or(||둘 중 하나) not(!=반전값)
 //boolean b1=true;
 //    boolean b2=false;
 //    boolean b3=true;
