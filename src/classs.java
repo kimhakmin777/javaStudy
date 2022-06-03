@@ -17,5 +17,4 @@ class Player{
         System.out.printf("[%s]의 스킬\n",name);
         System.out.printf("%s의 남은 [%d] hp\n",s.name,s.hp);
     }
-
 }
