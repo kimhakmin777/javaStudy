@@ -40,5 +40,6 @@ class Buser extends Auser{//자식 클래스
 }
 // 출력으 반환하는게 toString
 //extends 상속 받는다 의미 중요
-//super(name, hp); 상속 할떄 이거쓰면 쉽게 하기 가능
+//super(); 상속 할떄 이거쓰면 쉽게 하기 가능
 //protected 상속시만 사용가능한 접근제어자
+//오버 로딩 오버 라이딩 차이점 알기
